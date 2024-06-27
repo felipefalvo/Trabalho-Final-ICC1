@@ -37,3 +37,7 @@ sudo yum install python3-pygame
 
 • (https://www.pygame.org/wiki/GettingStarted)
 • (https://www.pymunk.org/en/latest/)
+
+## 🎥 Abrir os slides
+
+• Para verificar os slides apresentado durante a aula, é necessário fazer o dowload do mesmo
